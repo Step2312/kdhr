@@ -1,5 +1,6 @@
-wandb/
-/data
+wandb/*
+data/*
+output/*
 checkpoint.pt
 .vscode/
 
